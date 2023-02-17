@@ -1,0 +1,13 @@
+body{
+    background-image: url("bg.jpg");
+}
+hr{
+    background-color: white;
+    border-style:none;
+    width: 45%;
+    height: 1px;
+    border-color: white;
+    text-align: left;
+    margin-left:0;
+    
+}
